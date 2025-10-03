@@ -13,7 +13,7 @@ $yoantesdeti= (object) [
         'imagen' => 'https://es.web.img3.acsta.net/pictures/16/02/04/15/49/599815.jpg'
 ];
 
-$crepusculo= (ratatouille) [
+$ratatouille= (object) [
         'nombre' => 'Ratatouille',
         'categoria' => 'Infantil',
         'descripcion' => 'La rata Remy viaja a París para cumplir su sueño: convertirse en un gran chef. Aunque las ratas no pueden entrar en las cocinas, se hace amigo de un chico mediocre que trabaja en un restaurante de lujo.',
