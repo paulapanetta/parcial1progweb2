@@ -4,7 +4,7 @@ $crepusculo= (object) [
         'categoria' => 'Romance',
         'descripcion' => 'Bella Swan se va a vivir con su padre al pequeño pueblo de Forks, donde conoce a Edward, un atractivo y misterioso chico del que se enamora y quien esconde un gran secreto: es un vampiro.',
         'imagen' => 'https://es.web.img2.acsta.net/pictures/14/07/09/10/00/277089.jpg'
-    ];
+];
 
 $yoantesdeti= (object) [
         'nombre' => 'Yo antes de ti',
@@ -31,7 +31,7 @@ $losincreibles= (object) [
         'nombre' => 'Los increibles',
         'categoria' => 'Infantil',
         'descripcion' => 'Un superhéroe retirado lucha contra el aburrimiento y, junto a su familia, tiene la oportunidad de salvar al mundo.',
-        'imagen' => 'https://pics.filmaffinity.com/Los_Increaibles-939387273-large.jpg'
+        'imagen' => 'https://m.cinesargentinos.com.ar/poster/1402-los-increibles.jpg?1695249753'
 ];
 
 $tiemposviolentos= (object) [
@@ -67,4 +67,16 @@ $elconjuro= (object) [
         'categoria' => 'Terror',
         'descripcion' => 'A principios de los años 70, Ed y Lorrain Warren, reputados investigadores de fenómenos paranormales, se enfrentan a una entidad demoníaca al intentar ayudar a una familia que está siendo aterrorizada por una presencia oscura en su aislada granja.',
         'imagen' => 'https://mx.web.img3.acsta.net/pictures/19/03/20/19/26/1988298.jpg'
+];
+return [
+        $crepusculo,
+        $yoantesdeti,
+        $ratatouille,
+        $buscandoanemo,
+        $losincreibles,
+        $tiemposviolentos,
+        $parasitos,
+        $elexorcista,
+        $fragmentado,
+        $elconjuro
 ];
